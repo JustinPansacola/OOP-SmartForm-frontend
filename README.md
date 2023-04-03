@@ -1,6 +1,6 @@
 # smartform-frontend
 
-This template should help get you started developing with Vue 3 in Vite.
+This project is a web-based application built using Vue.js, JavaScript, and Java. It allows the company to create and manage customizable forms for their vendors and securely store the data in a database. The vendors can download PDFs and Word docs of the forms they filled out. This application streamlines the vendor management process and helps the company make data-driven decisions based on accurate and timely information.
 
 ## Recommended IDE Setup
 
